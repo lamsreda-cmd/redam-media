@@ -1,0 +1,127 @@
+[
+ {
+  "id": "s_merzouga_ouarzazat",
+  "kind": "poster",
+  "poster": "posts/06_merzouga_ouarzazat.png",
+  "hook": "نمشيو **لمرزوكة**؟",
+  "sub": "غير 1349 درهم • أوطيل 4 نجوم"
+ },
+ {
+  "id": "s_omra_11999",
+  "kind": "poster",
+  "poster": "posts/16_omra_11999.png",
+  "hook": "**العمرة** ابتداء من 11.999 درهم",
+  "sub": "الرحلات الجاية: 10/11 • 24/11 • 22/12"
+ },
+ {
+  "id": "s_q_destination",
+  "kind": "text",
+  "title": "فين بغيتي **تسافر**؟",
+  "lines": [
+   "مرزوكة والصحرا",
+   "الداخلة والبحر",
+   "إسطنبول",
+   "تونس",
+   "العمرة"
+  ],
+  "cta": "جاوبنا فالميساج ونصيفطو ليك البرنامج"
+ },
+ {
+  "id": "s_dakhla",
+  "kind": "poster",
+  "poster": "posts/13_dakhla.png",
+  "hook": "**الداخلة** كتسناك",
+  "sub": "ابتداء من 3.099 درهم"
+ },
+ {
+  "id": "s_omra_istanbul",
+  "kind": "poster",
+  "poster": "posts/08_omra_istanbul.png",
+  "hook": "**عمرة + إسطنبول**",
+  "sub": "الرحلة الجاية: من 4 حتى 20 دجنبر"
+ },
+ {
+  "id": "s_marrakech",
+  "kind": "poster",
+  "poster": "posts/11_marrakech.png",
+  "hook": "مراكش بـ **879 درهم**",
+  "sub": "إمليل • مراكش • أكفاي"
+ },
+ {
+  "id": "s_qods",
+  "kind": "poster",
+  "poster": "posts/10_qods_ordon.png",
+  "hook": "**القدس** • الأردن • البتراء",
+  "sub": "الرحلة الجاية: من 25 نونبر حتى 1 دجنبر"
+ },
+ {
+  "id": "s_ouzoud",
+  "kind": "poster",
+  "poster": "posts/15_ouzoud.png",
+  "hook": "شلالات **أوزود**",
+  "sub": "غير 1299 درهم • أوطيل 4 نجوم"
+ },
+ {
+  "id": "s_omra_chaaban",
+  "kind": "poster",
+  "poster": "posts/17_omra_cha3ban_ramadan.jpg",
+  "hook": "**عمرة شعبان ورمضان**",
+  "sub": "حجز بلاصتك من دابا • المقاعد الأولى"
+ },
+ {
+  "id": "s_grand_sud",
+  "kind": "poster",
+  "poster": "posts/12_grand_sud.png",
+  "hook": "الجنوب فـ **4 أيام**",
+  "sub": "7 وجهات • غير 2400 درهم"
+ },
+ {
+  "id": "s_q_teambuilding",
+  "kind": "text",
+  "title": "**Team Building** للشركات",
+  "lines": [
+   "برنامج على المقاس",
+   "النقل والإقامة والأنشطة",
+   "لأي عدد ديال الموظفين"
+  ],
+  "cta": "طلب الدوفي ديالك دابا"
+ },
+ {
+  "id": "s_omra_ramadan",
+  "kind": "poster",
+  "poster": "posts/18_omra_ramadan.jpg",
+  "hook": "**عمرة رمضان**",
+  "sub": "35 • 48 • 58 يوم • المقاعد الأولى"
+ },
+ {
+  "id": "s_services",
+  "kind": "poster",
+  "poster": "posts/05_services.png",
+  "hook": "كل ما تحتاجو فـ **السفر**",
+  "sub": "فنادق • تذاكر • فيزا • رحلات",
+  "top": 470,
+  "cta_top": 1490,
+  "w": 560
+ },
+ {
+  "id": "s_site",
+  "kind": "poster",
+  "poster": "posts/04_site_web.png",
+  "hook": "شوف كاع العروض فـ **الموقع**",
+  "sub": "www.redamtravel.com"
+ },
+ {
+  "id": "s_nos_offres",
+  "kind": "poster",
+  "poster": "posts/02_nos_offres.png",
+  "hook": "فين بغيتي **تمشي**؟",
+  "sub": "عندنا عرض لكل ذوق"
+ },
+ {
+  "id": "s_reservez",
+  "kind": "poster",
+  "poster": "posts/03_reservez.png",
+  "hook": "**احجز** دابا",
+  "sub": "ختار • احجز • سافر"
+ }
+]

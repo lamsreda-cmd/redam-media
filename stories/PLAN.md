@@ -3,11 +3,23 @@
 Brand: Redam Travel Agency (Metricool brand id `7671028`, timezone Africa/Casablanca).
 WhatsApp 060 905 06 21 · www.redamtravel.com · Contact@redamtravel.com
 
-## Rhythm
-- 2 stories per day, **10:00** and **18:00** (Africa/Casablanca) — the audience peaks per Metricool best-time data (10h is the top hour every day on FB+IG, 18h the evening peak), on `facebook` + `instagram`, type `STORY` (no text).
-- 10:00 = an image story from `stories/out/` (offer poster or question). 18:00 = a vertical video ≤ 60 s.
+## Rhythm — 5 stories per day (Africa/Casablanca), facebook + instagram, type STORY, no text
+- **10:00** offer image story from `stories/out/s_*.jpg` (audience peak of the day)
+- **12:30** engagement image story from `stories/out/q_*.jpg` or `t_*.jpg` (questions, this-or-that, tips)
+- **15:00** motion offer video `stories/motion/m_*.mp4` (8 s zoom of an offer story)
+- **18:00** real video ≤ 60 s (testimonials / offer videos, list below) (evening peak)
+- **21:00** engagement image story `q_*`/`t_*` (not the same one as 12:30 that day)
+- Never put the same offer twice on the same day; do not repeat an asset within 4 days (questions within 7 days).
 - Media URLs are public raw GitHub links:
   `https://raw.githubusercontent.com/lamsreda-cmd/redam-media/main/<path>`
+
+## Engagement stories (`stories/out/`)
+q_mz_or_dakhla, t_why_us, q_omra_ana, t_sahara_bag, q_jmel, t_weekend, q_tag_friend, q_istanbul_tunis,
+q_budget, t_bivouac, q_memory, t_teambuilding2, q_when, t_omra15, q_destination (s_q_destination), q_teambuilding (s_q_teambuilding)
+
+## Motion offer videos (`stories/motion/`)
+m_dakhla, m_ouzoud, m_grand_sud, m_omra_11999, m_marrakech, m_merzouga_ouarzazat, m_omra_ramadan, m_qods,
+m_omra_istanbul, m_omra_chaaban, m_nos_offres, m_services, m_site, m_reservez (same date limits as their s_ image)
 
 ## Image stories (`stories/out/*.jpg`, made by `stories/tool/make_stories.py` from `stories/tool/stories.json`)
 s_merzouga_ouarzazat, s_omra_11999, s_q_destination, s_dakhla, s_omra_istanbul, s_marrakech,

@@ -4,8 +4,8 @@ Brand: Redam Travel Agency (Metricool brand id `7671028`, timezone Africa/Casabl
 WhatsApp 060 905 06 21 · www.redamtravel.com · Contact@redamtravel.com
 
 ## Rhythm
-- 2 stories per day, **12:30** and **20:30** (Africa/Casablanca), on `facebook` + `instagram`, type `STORY` (no text).
-- 12:30 = an image story from `stories/out/` (offer poster or question). 20:30 = a vertical video ≤ 60 s.
+- 2 stories per day, **10:00** and **18:00** (Africa/Casablanca) — the audience peaks per Metricool best-time data (10h is the top hour every day on FB+IG, 18h the evening peak), on `facebook` + `instagram`, type `STORY` (no text).
+- 10:00 = an image story from `stories/out/` (offer poster or question). 18:00 = a vertical video ≤ 60 s.
 - Media URLs are public raw GitHub links:
   `https://raw.githubusercontent.com/lamsreda-cmd/redam-media/main/<path>`
 

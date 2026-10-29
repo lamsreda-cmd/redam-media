@@ -41,9 +41,9 @@ def poster(e):
 <div class="wa">{WA}<span>060 905 06 21</span></div></div>"""
 
 def text(e):
-    lines = ''.join(f'<div style="background:#fff;color:#0B2A6B;border-radius:22px;padding:10px 30px 18px;font-weight:900;font-size:52px;box-shadow:0 8px 20px rgba(0,0,0,.3)">{l}</div>' for l in e['lines'])
+    lines = ''.join(f'<div style="background:#fff;color:#0B2A6B;border-radius:22px;padding:14px 30px 22px;font-weight:900;font-size:60px;box-shadow:0 8px 20px rgba(0,0,0,.3)">{l}</div>' for l in e['lines'])
     return f"""<div style="position:absolute;inset:0;background:radial-gradient(circle at 50% 30%,#1D4FA8 0%,#0B2A6B 55%,#061636 100%)"></div>
-<div style="position:absolute;top:340px;left:60px;right:60px;display:flex;flex-direction:column;align-items:center;gap:30px;text-align:center">
+<div style="position:absolute;top:400px;left:60px;right:60px;display:flex;flex-direction:column;align-items:center;gap:40px;text-align:center">
 <div class="hook" style="font-size:88px">{hl(e['title'])}</div>
 <div style="display:flex;flex-direction:column;gap:22px;width:100%;margin-top:20px">{lines}</div></div>
 <div class="cta"><div class="t" style="color:#FFD54A">{e.get('cta', 'جاوبنا فالميساج')}</div><div class="wa">{WA}<span>060 905 06 21</span></div></div>"""

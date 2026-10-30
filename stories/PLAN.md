@@ -9,6 +9,7 @@ WhatsApp 060 905 06 21 · www.redamtravel.com · Contact@redamtravel.com
 - **15:00** motion offer video `stories/motion/m_*.mp4` (8 s zoom of an offer story)
 - **18:00** real video ≤ 60 s (testimonials / offer videos, list below) (evening peak)
 - **21:00** engagement image story `q_*`/`t_*` (not the same one as 12:30 that day)
+- **Fridays 09:00** extra story: جمعة مباركة image `stories/out/j_1..j_4.jpg` (made by `stories/tool/make_jumua.py`), rotate one per Friday, no sales text.
 - Never put the same offer twice on the same day; do not repeat an asset within 4 days (questions within 7 days).
 - Media URLs are public raw GitHub links:
   `https://raw.githubusercontent.com/lamsreda-cmd/redam-media/main/<path>`

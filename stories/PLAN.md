@@ -9,6 +9,8 @@ WhatsApp 060 905 06 21 · www.redamtravel.com · Contact@redamtravel.com
 - **15:00** motion offer video `stories/motion/m_*.mp4` (8 s zoom of an offer story)
 - **18:00** real video ≤ 60 s (testimonials / offer videos, list below) (evening peak)
 - **21:00** engagement image story `q_*`/`t_*` (not the same one as 12:30 that day)
+- **08:30 daily**: 'بحال اليوم فالتاريخ' story `stories/out/h_MMDD.jpg` (made by `stories/tool/make_daily.py` from `stories/tool/daily.json`, kind history). Facts must be real and verified with a web search for that exact date; prefer travel/discovery/Morocco events; no politics/conflicts/deaths.
+- **20:00 daily**: fun 'POV / Story Time' story `stories/out/f_MMDD.jpg` (kind fun): relatable travel humour written as a scenario (POV/Story Time), never presented as a real customer's testimonial.
 - **Fridays 09:00** extra story: جمعة مباركة image `stories/out/j_1..j_4.jpg` (made by `stories/tool/make_jumua.py`), rotate one per Friday, no sales text.
 - Never put the same offer twice on the same day; do not repeat an asset within 4 days (questions within 7 days).
 - Media URLs are public raw GitHub links:

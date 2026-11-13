@@ -48,3 +48,7 @@ Any new vertical video ≤ 60 s added under `videos/` joins the rotation.
 - Never invent prices, dates or seat counts. Only use what is in the files.
 - Never write "الكار" — write "نقل سياحي مكيّف".
 - The first batch covers 2026-10-29 → 2026-11-11.
+
+## Client stories (from Drive "Redam Client photos videos")
+- 11:15 / 13:45 / 16:30 / 22:15 daily, Nov 14 - Dec 2 (75 stories: 63 photos + 11 video highlights), files in clients/stories/.
+- Skipped VID-20200817-WA0016 (swimwear) pending user answer. 4 photos with the user in shorts held back for outfit fix.
